@@ -1,13 +1,13 @@
-GithubÊÇ»ùÓÚgitÊµÏÖµÄ´úÂëÍÐ¹Ü¡£
-½ÓÏÂÀ´£¬·ÖÏíÒ»ÏÂÉÏ´«±¾µØÏîÄ¿£¨ÎÄ¼þ¼Ð£©µ½GithubµÄ²½Öè£º
-µÚÒ»²½£º´ò¿ªGithubÍøÕ¾£ºhttps://github.com/£¬µÇÂ¼×Ô¼ºµÄÕËºÅ¡£
-µÚ¶þ²½£ºµã»÷Your profile£¬½øÈë²Ö¿â¹ÜÀí¡£
-µÚÈý²½£ºÐÂ½¨²Ö¿â¡££¨µãPublic£»²»Òª¹´Ñ¡Initialize this repository with a README£©
-µÚËÄ²½£ºÒòÎªGitHubÊÇ»ùÓÚgitÊµÏÖµÄ¿ªÔ´´úÂëÍÐ¹Ü£¬È·ÈÏµçÄÔ°²×°ÁËgit¡££¨Ñ¡Ôñhttps£¬²»ÓÃssh¡££©
-µÚÎå²½£ºÐÂ½¨NCUTÎÄ¼þ¼Ð£¬ÀïÃæÌí¼Ó¼¸¸öÎÄ¼þ¡£ÓÒ»÷NCUTÎÄ¼þ¼Ð,µã»÷Git Bash Here£¬´ò¿ªgitÃüÁîÐÐ¡£
-µÚÁù²½£º°´ÕÕgithubÐÂ½¨²Ö¿âÉÏµÄÎÄµµÌáÊ¾£¬Ìá½»ÏîÄ¿£º
-1.ÔÚÃüÁîÐÐÖÐ£¬ÊäÈëgit init£¬Ê¹NCUTÎÄ¼þ¼Ð¼ÓÈëgit¹ÜÀí£»
-2.ÊäÈëgit add .£¨²»ÒªÂ©ÁË¡°.¡±£©£¬½«NCUTÎÄ¼þ¼ÐÈ«²¿ÄÚÈÝÌí¼Óµ½git¡£
-3.ÊäÈëgit commit -m "first commit"£¨git commit -m "Ìá½»ÐÅÏ¢"£©
-4.ÊäÈëgit remote add origin ×Ô¼ºµÄhttpsµØÖ·£¬Á¬½ÓÄãµÄguthub²Ö¿â¡£
-5.ÊäÈëgit push -u origin master£¬ÉÏ´«ÏîÄ¿µ½Github¡£ÕâÀï»áÒªÇóÊäÈëGithubµÄÕËºÅÃÜÂë£¬°´ÒªÇóÊäÈë¾Í¿ÉÒÔ¡£
+Githubæ˜¯åŸºäºŽgitå®žçŽ°çš„ä»£ç æ‰˜ç®¡ã€‚
+æŽ¥ä¸‹æ¥ï¼Œåˆ†äº«ä¸€ä¸‹ä¸Šä¼ æœ¬åœ°é¡¹ç›®ï¼ˆæ–‡ä»¶å¤¹ï¼‰åˆ°Githubçš„æ­¥éª¤ï¼š
+ç¬¬ä¸€æ­¥ï¼šæ‰“å¼€Githubç½‘ç«™ï¼šhttps://github.com/ï¼Œç™»å½•è‡ªå·±çš„è´¦å·ã€‚
+ç¬¬äºŒæ­¥ï¼šç‚¹å‡»Your profileï¼Œè¿›å…¥ä»“åº“ç®¡ç†ã€‚
+ç¬¬ä¸‰æ­¥ï¼šæ–°å»ºä»“åº“ã€‚ï¼ˆç‚¹Publicï¼›ä¸è¦å‹¾é€‰Initialize this repository with a READMEï¼‰
+ç¬¬å››æ­¥ï¼šå› ä¸ºGitHubæ˜¯åŸºäºŽgitå®žçŽ°çš„å¼€æºä»£ç æ‰˜ç®¡ï¼Œç¡®è®¤ç”µè„‘å®‰è£…äº†gitã€‚ï¼ˆé€‰æ‹©httpsï¼Œä¸ç”¨sshã€‚ï¼‰
+ç¬¬äº”æ­¥ï¼šæ–°å»ºNCUTæ–‡ä»¶å¤¹ï¼Œé‡Œé¢æ·»åŠ å‡ ä¸ªæ–‡ä»¶ã€‚å³å‡»NCUTæ–‡ä»¶å¤¹,ç‚¹å‡»Git Bash Hereï¼Œæ‰“å¼€gitå‘½ä»¤è¡Œã€‚
+ç¬¬å…­æ­¥ï¼šæŒ‰ç…§githubæ–°å»ºä»“åº“ä¸Šçš„æ–‡æ¡£æç¤ºï¼Œæäº¤é¡¹ç›®ï¼š
+1.åœ¨å‘½ä»¤è¡Œä¸­ï¼Œè¾“å…¥git initï¼Œä½¿NCUTæ–‡ä»¶å¤¹åŠ å…¥gitç®¡ç†ï¼›
+2.è¾“å…¥git add .ï¼ˆä¸è¦æ¼äº†â€œ.â€ï¼‰ï¼Œå°†NCUTæ–‡ä»¶å¤¹å…¨éƒ¨å†…å®¹æ·»åŠ åˆ°gitã€‚
+3.è¾“å…¥git commit -m "first commit"ï¼ˆgit commit -m "æäº¤ä¿¡æ¯"ï¼‰
+4.è¾“å…¥git remote add origin è‡ªå·±çš„httpsåœ°å€ï¼Œè¿žæŽ¥ä½ çš„githubä»“åº“ã€‚
+5.è¾“å…¥git push -u origin masterï¼Œä¸Šä¼ é¡¹ç›®åˆ°Githubã€‚è¿™é‡Œä¼šè¦æ±‚è¾“å…¥Githubçš„è´¦å·å¯†ç ï¼ŒæŒ‰è¦æ±‚è¾“å…¥å°±å¯ä»¥ã€‚
