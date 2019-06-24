@@ -10,4 +10,5 @@ Github是基于git实现的代码托管。
 2.输入git add .（不要漏了“.”），将NCUT文件夹全部内容添加到git。
 3.输入git commit -m "first commit"（git commit -m "提交信息"）
 4.输入git remote add origin 自己的https地址，连接你的github仓库。
-5.输入git push -u origin master，上传项目到Github。这里会要求输入Github的账号密码，按要求输入就可以。
+5.输入git push -u origin master，上传项目到Github。这里会要求输入Github的账号密码(username sy***521...)按要求输入就可以。
+
